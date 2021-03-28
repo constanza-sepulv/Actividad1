@@ -1,0 +1,64 @@
+ul {
+    color: white;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 20%;
+    background-color: #333333;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+  }
+
+li a {
+    display: block;
+    color:white;
+    padding: 8px 16px;
+    text-decoration: none;
+  
+}
+
+.contenido1 {
+    
+    margin-left: 110px;
+    margin-right: 110px;
+    padding: 30px;
+}
+.borde {
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 1%;
+    position: fixed;
+    background-color: #333333;
+    height: 100%;
+    overflow: auto;
+    margin-left: 1480px;
+    margin-right: 500px;
+    padding: 30px;
+}
+.celeste {
+    margin-left: -100px;
+    margin-right: 1px;
+    padding: 25%;
+    background-color: skyblue;
+}
+.amarillo {
+    margin-left: -100px;
+    margin-right: 1px;
+    padding: 25%;
+    background-color:yellow;
+}
+.naranjo {
+    margin-left: -100px;
+    margin-right: 1px;
+    padding: 25%;
+    background-color:orange;
+}
+.rojo {
+    margin-left: -100px;
+    margin-right: 1px;
+    padding: 25%;
+    background-color: red;
+}
